@@ -1,0 +1,14 @@
+{
+    "name": "LinkedList",
+    "author:": "Cody Schrank",
+    "version": "1.0.0",
+    "contributors": [
+        {
+            "name": "Cody Schrank",
+            "email": "Cody.Schrank@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start" : "nodemon -q mocha-wrap.js"
+    }
+}
