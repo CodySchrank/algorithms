@@ -1,0 +1,3 @@
+var StringCompression = require('./StringCompression')
+
+
