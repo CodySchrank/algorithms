@@ -9,6 +9,6 @@
         }
     ],
     "scripts": {
-        "start" : "nodemon -q mocha-wrap.js"
+        "start" : "mocha --recursive --watch"
     }
 }
